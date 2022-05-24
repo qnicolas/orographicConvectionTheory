@@ -1,0 +1,9 @@
+name: orogconv
+dependencies:
+ - cartopy=0.18.0
+ - jupyter=4.7.0
+ - matplotlib=3.3.2
+ - numpy=1.19.2
+ - python=3.7.9
+ - scipy=1.5.2
+ - xarray=0.16.2
