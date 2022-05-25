@@ -5,4 +5,6 @@ Data is stored in netCDF format; WRF variables use native names unless there is 
 
 A .yml file is included that contains all necessary python packages to run the code and produce the figures. Create a conda environment using `conda env create -f environment.yml`, then activate with `conda activate orogconv`, launch a Jupyter notebook and you are hopefully all set!
 
+Initial release : [![DOI](https://zenodo.org/badge/495957541.svg)](https://zenodo.org/badge/latestdoi/495957541)
+
 For any questions, contact qnicolas@berkeley.edu 
